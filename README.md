@@ -105,4 +105,4 @@ Initialize the SfDataGrid with all the required properties.
   } 
 ```
 
-<img alt="rowbackground color"  src="https://www.syncfusion.com/uploads/user/kb/flut/flut-4292/flut-4292_img1.jpeg" width="300" height="400" />|
+<img alt="rowbackground color"  src="https://www.syncfusion.com/uploads/user/kb/flut/flut-4292/flut-4292_img1.jpeg" width="300" height="400" />
