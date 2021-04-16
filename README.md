@@ -1,4 +1,4 @@
-
+# How to change row background color of Flutter DataTable
 
 The Flutter DataTable widget provides support to change the color of the individual rows based on the requirements.
 
@@ -104,3 +104,5 @@ Initialize the SfDataGrid with all the required properties.
     );
   } 
 ```
+
+<img alt="rowbackground color"  src="https://www.syncfusion.com/uploads/user/kb/flut/flut-4292/flut-4292_img1.jpeg" width="300" height="400" />|
