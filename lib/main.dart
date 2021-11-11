@@ -153,11 +153,11 @@ class EmployeeDataSource extends DataGridSource {
   @override
   DataGridRowAdapter buildRow(DataGridRow row) {
     Color getBackgroundColor() {
-      int index = dataGridRow.indexOf(row) + 1;
+      int index = effectiveRows.indexOf(row);
       if (index % 2 == 0) {
-        return Colors.amber[100]!;
-      } else {
         return Colors.red[100]!;
+      } else {
+        return Colors.amber[100]!;
       }
     }
 
